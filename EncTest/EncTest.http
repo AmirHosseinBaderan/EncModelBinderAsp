@@ -1,0 +1,6 @@
+@EncTest_HostAddress = http://localhost:5047
+
+GET {{EncTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
